@@ -1,2 +1,2 @@
-# Mechanika-Nieba
-# Orbital-Mechanics
+# Mechanika Nieba
+# Orbital Mechanics
