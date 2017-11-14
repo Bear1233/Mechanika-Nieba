@@ -1,0 +1,8 @@
+22 XI 2017 - 	analiza teoretyczna zagadnienia, 
+		analiza przyk³adowych rozwi¹zañ, 
+		dostosowanie przyk³adowych programów do nowej wersji Pythona 
+29 XI 2017 -	wstêpna wersja programu
+6 XII 2017 - 	dalsze rozwijanie programu
+13 XII 2017 -	kolejna wersja programu
+20 XII 2017 -	rozpoczêcie pracy nad raportem
+3 I 2018 -	gotowy program oraz raport 
